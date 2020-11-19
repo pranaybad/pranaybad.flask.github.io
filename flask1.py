@@ -4,8 +4,7 @@ from werkzeug import secure_filename
 # from flask_mail import Mail mail is not proper work
 # ha syntax jason madhe lihaycga but mail is not work tr asach thevla ahE
 # //our mail is not work
-# //"gmail-user": "codinggod452001@gmail.com",
-# //    "gmail-password": "code~wi-th4-5-2001"
+# /
 
 
 import json
