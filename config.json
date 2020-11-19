@@ -1,0 +1,18 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/thecodingthunder",
+    "prod_uri": "mysql://root:@localhost/thecodingthunder",
+    "blog_name": "TheCodingThunder",
+    "fb_url": "https://facebook.com/thecodingthunder",
+    "tw_url": "https://twitter.com/thecodingthunder",
+    "gh_url": "https://github.com/thecodingthunder",
+    "no_of_posts": 5,
+    "login_image" : "login.svg",
+    "admin_user":"pranay",
+    "admin_password": "pranay",
+    "upload_location": "C:\\Users\\Asus\\PycharmProjects\\flask_tut1\\static"
+
+  }
+
+}
